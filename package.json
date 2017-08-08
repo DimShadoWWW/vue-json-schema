@@ -26,7 +26,7 @@
     "url": "https://github.com/demsking/vue-json-schema/issues"
   },
   "homepage": "https://github.com/demsking/vue-json-schema#readme",
-  "devDependencies": {
+  "dependencies": {
     "@vuedoc/md": "^0.3.3",
     "babel-core": "^6.25.0",
     "babel-eslint": "^7.2.3",
@@ -57,9 +57,7 @@
     "vue-style-loader": "^3.0.1",
     "phantomjs-prebuilt": "^2.1.14",
     "vueify": "^9.4.1",
-    "webpack": "^2.6.1"
-  },
-  "dependencies": {
+    "webpack": "^2.6.1",
     "@vx-components/checkbox": "^0.1.1",
     "@vx-components/fileinput": "^0.1.1",
     "@vx-components/input": "^0.1.4",
